@@ -1,0 +1,11 @@
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\bin\Debug\ClientConnect.exe.config
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\bin\Debug\ClientConnect.exe
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\bin\Debug\ClientConnect.pdb
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.csprojResolveAssemblyReference.cache
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.Properties.Resources.resources
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.csproj.GenerateResource.Cache
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.csproj.CoreCompileInputs.cache
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.exe
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.pdb
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.chat.resources
+C:\Users\Colton\Desktop\Projects\Client\ClientConnect\ClientConnect\obj\Debug\ClientConnect.connectionWindow.resources
